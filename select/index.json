@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "私がモテてどうすんだ",
+  "base_artist": "Girls2",
+  "createdAt": "2026-02-20T12:40:40.066676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私がモテてどうすんだ",
+      "artist": "Girls2",
+      "has_synced": false,
+      "path": "select/01_私がモテてどうすんだ_Girls2.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私がモテてどうすんだ",
+      "artist": "Girls2",
+      "has_synced": false,
+      "path": "select/pl_01_私がモテてどうすんだ_Girls2.txt"
+    }
+  ]
+}
